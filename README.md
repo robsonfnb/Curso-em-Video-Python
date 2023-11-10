@@ -1,6 +1,6 @@
 # Curso-em-Video-Python3
 
-## Curso Ministrado pelo professor Gustavo Guanabara sobre a plataforma do site cursoemvideo.com
+## Curso ministrado pelo professor Gustavo Guanabara sobre a plataforma do site https://www.cursoemvideo.com/
 
 ### Lista de exercicios feitas durante todos os três módulos do curso.
 
