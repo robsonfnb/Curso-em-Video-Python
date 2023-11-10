@@ -1,0 +1,5 @@
+print('Vamos descobrir o antecessor e o sucessor de um número informado por você.')
+n = int(input('Informe um número: '))
+ant = (n - 1)
+suc = (n + 1)
+print('O Antecessor do número {} é o número {} e o seu sucessor é o número {}'.format(n, ant, suc))

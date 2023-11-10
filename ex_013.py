@@ -1,0 +1,5 @@
+print('Vamos calcular o novo salário de um funcionário após um aumento de 15%')
+func = str(input('Informe o nome do funcionário:'))
+sal = float(input('Informe o salário atual do funcionário R$'))
+nsal = float(sal + (sal*15/100))
+print('O novo salário do {} será de R${:.2f} após o aumento'.format(func, nsal))
